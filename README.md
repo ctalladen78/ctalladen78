@@ -1,6 +1,7 @@
 <h1 align="center"> Cyrus Talladen </h1>
 
 <h3 align="center">💻 Developer Analyst | AI Enthusiast | Agents </h3>
+<h3 align="center">🧱 Blockchain | Smart contracts </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=girishchowdary0208&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -23,10 +24,10 @@
 
 ### 🌐 Connect with Me:
 <p align="left">
-<a href="https://twitter.com/_girishchowdary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/girish-chowdary-919b6522b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://kaggle.com/girishchowdary22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mupparajugirish1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://twitter.com/ctalladen78" target="blank"><img align="center" src="https://raw.githubusercontent.com/ctalladen78/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ctalladen78" target="blank"><img align="center" src="https://raw.githubusercontent.com/ctalladen78/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://kaggle.com/ctalladen78" target="blank"><img align="center" src="https://raw.githubusercontent.com/ctalladen78/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ctalladen78" target="blank"><img align="center" src="https://raw.githubusercontent.com/ctalladen78/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 
 ---
