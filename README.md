@@ -25,7 +25,7 @@
 ### 🌐 Connect with Me:
 <p align="left">
 <a href="https://twitter.com/ctalladen78" target="blank"><img align="center" src="https://raw.githubusercontent.com/ctalladen78/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ctalladen78" target="blank"><img align="center" src="https://raw.githubusercontent.com/ctalladen78/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/cyrus-talladen-6aa89835/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ctalladen78/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://kaggle.com/ctalladen78" target="blank"><img align="center" src="https://raw.githubusercontent.com/ctalladen78/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ctalladen78" target="blank"><img align="center" src="https://raw.githubusercontent.com/ctalladen78/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
@@ -38,6 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -61,10 +62,10 @@
 </p>
 
 ## 🎓 DataCamp Certifications & Courses
-[![DataCamp](https://img.shields.io/badge/DataCamp-Learner-brightgreen)](https://www.datacamp.com/profile/yourusername)
+[![DataCamp](https://img.shields.io/badge/DataCamp-Learner-brightgreen)](https://www.datacamp.com/profile/ctalladen78)
 [View Data Analyst Certificate](https://www.datacamp.com/statement-of-accomplishment/your-certificate-id)
 
-Check out my learning journey on [DataCamp](https://www.datacamp.com/profile/yourusername)!
+Check out my learning journey on [DataCamp](https://www.datacamp.com/profile/ctalladen78)!
 
 - 🏅 Completed: Data Analyst with Python Track
 - 📊 Courses: Data Visualization, SQL Fundamentals, Machine Learning
