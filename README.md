@@ -16,9 +16,8 @@
 - 🔭 I’m currently working on "DrowsiGuard"
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Neural Networks, DSA, and various programming languages**
 - 🧑‍🎓 Pursuing **B.Tech in Computer Science and Engineering**
-- 👨‍💻 My projects are available at **[GitHub](https://github.com/GirishChowdary0208)[Kaggle](https://www.kaggle.com/girishchowdary22/)**
-- 📫 Reach me at **[Gmail](mupparajugirishchowdary@gmail.com)**
-- 📄 Know more about me on **[LinkedIn](https://www.linkedin.com/in/girish-chowdary-919b6522b/)**
+- 👨‍💻 My projects are available at **[GitHub](https://github.com/ctalladen78)[Kaggle](https://www.kaggle.com/ctalladen78/)**
+
 
 ---
 
@@ -50,8 +49,8 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=girishchowdary0208&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishchowdary0208&layout=compact&theme=highcontrast" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ctalladen78&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctalladen78&layout=compact&theme=highcontrast" alt="Top Languages" />
 </p>
 
 ---
