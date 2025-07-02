@@ -37,12 +37,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> -->
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> -->
-<!--     <img src="https://raw.githubusercontent.com/lutzhamel/ds-assets/main/assets/colab-icon.png" alt="Colab" width="40" height="40"/> -->
+    <img src="https://raw.githubusercontent.com/lutzhamel/ds-assets/main/assets/colab-icon.png" alt="Colab" width="40" height="40"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="ETH" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-   <!--   <img src="https://www.vectorlogo.zone/logos/solidity/solidity-icon.svg" alt="Ethereum" width="40" height="40"/> -->
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
