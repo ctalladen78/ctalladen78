@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Neural Networks, DSA, and various programming languages**
 - 🧑‍🎓 Pursuing **B.Tech in Computer Science and Engineering**
 - 👨‍💻 My projects are available at **[GitHub](https://github.com/ctalladen78)**
-- 🧱 Data repository for analysis **[Kaggle](https://www.kaggle.com/ctalladen78/)**
+- 📊 Data repository for analysis **[Kaggle](https://www.kaggle.com/ctalladen78/)**
 
 
 ---
