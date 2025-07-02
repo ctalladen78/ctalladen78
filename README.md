@@ -58,7 +58,7 @@
 
 ### 👀 Visitor Count:
 <p align="center">
-  <img src="https://profile-counter.glitch.me/GirishChowdary0208/count.svg" />
+  <img src="https://profile-counter.glitch.me/ctalladen78/count.svg" />
 </p>
 
 ## 🎓 DataCamp Certifications & Courses
