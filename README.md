@@ -16,7 +16,8 @@
 - 🔭 I’m currently working on "DrowsiGuard"
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Neural Networks, DSA, and various programming languages**
 - 🧑‍🎓 Pursuing **B.Tech in Computer Science and Engineering**
-- 👨‍💻 My projects are available at **[GitHub](https://github.com/ctalladen78)[Kaggle](https://www.kaggle.com/ctalladen78/)**
+- 👨‍💻 My projects are available at **[GitHub](https://github.com/ctalladen78)**
+- 🧱 Data repository for analysis **[Kaggle](https://www.kaggle.com/ctalladen78/)**
 
 
 ---
@@ -37,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="PyTorch" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
