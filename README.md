@@ -13,9 +13,9 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on "DrowsiGuard"
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Neural Networks, DSA, and various programming languages**
-- 🧑‍🎓 Pursuing **B.Tech in Computer Science and Engineering**
+- 🔭 I’m currently learning **Blockchain Solidity**
+- 🌱 Recent expertise in **Machine Learning, Deep Learning, Neural Networks, Data analysis**
+- 🧑‍🎓 **Bachelors in Computer Science and Engineering** from **University of Texas at El Paso**
 - 👨‍💻 My projects are available at **[GitHub](https://github.com/ctalladen78)**
 - 📊 Data repository for analysis **[Kaggle](https://www.kaggle.com/ctalladen78/)**
 
