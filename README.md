@@ -38,6 +38,8 @@
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> -->
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> -->
     <img src="https://raw.githubusercontent.com/ctalladen78/ctalladen78/master/colab-color.svg" alt="Colab" width="50" height="40"/>
+    <img src="https://raw.githubusercontent.com/ctalladen78/ctalladen78/master/huggingface-color.svg" alt="Huggingface" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/ctalladen78/ctalladen78/master/civitai-color.svg" alt="Civitai" width="50" height="50"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="ETH" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
