@@ -38,7 +38,7 @@
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> -->
 <!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> -->
 <!--     <img src="https://raw.githubusercontent.com/lutzhamel/ds-assets/main/assets/colab-icon.png" alt="Colab" width="30" height="20"/> -->
-    <img src="https://raw.githubusercontent.com/ctalladen78/ctalladen78/colab-color.svg" alt="Colab" width="40" height="30"/>
+    <img src="https://raw.githubusercontent.com/ctalladen78/ctalladen78/master/colab-color.svg" alt="Colab" width="40" height="30"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="ETH" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
