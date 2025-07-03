@@ -1,7 +1,7 @@
 <h1 align="center"> Cyrus Talladen </h1>
 
 <h3 align="center">💻 Developer Analyst | AI Enthusiast | Agents </h3>
-<h3 align="center">   <img src="https://img.icons8.com/fluency/48/ethereum.png" alt="ethereum" width="40" height="40"/>  Blockchain | Smart contracts </h3>
+<h3 align="center">   <img src="https://img.icons8.com/fluency/48/ethereum.png" alt="ethereum" align="center" width="40" height="40"/>  Blockchain | Smart contracts </h3>
 
 <p align="center">
   <!--<img src="https://komarev.com/ghpvc/?username=girishchowdary0208&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" -->
